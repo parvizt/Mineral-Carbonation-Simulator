@@ -12,11 +12,17 @@ A scientific desktop simulator for **CO₂ mineral carbonation** processes, buil
 
 ## 📸 Screenshots
 
-| Simulator Tab | Results & Plots |
-|---|---|
-| ![sim](screenshots/sim_tab.png) | ![results](screenshots/results.png) |
+<table>
+<tr>
+<th>Simulator Tab</th>
+<th>Results & Plots</th>
+</tr>
+<tr>
+<td><img width="540" alt="simulator" src="https://github.com/user-attachments/assets/c78c87e9-1e25-475e-af34-ad1691b944c8" /></td>
+<td><img width="540" alt="result" src="https://github.com/user-attachments/assets/8d64adce-f297-42d2-9761-9adad4a64eff" /></td>
+</tr>
+</table>
 
----
 
 ## ⚙️ Supported Minerals
 
