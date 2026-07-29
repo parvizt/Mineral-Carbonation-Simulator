@@ -1,0 +1,11 @@
+PyQt5==5.15.9
+
+PyQtGraph==0.13.3
+
+reportlab==4.0.4
+
+openpyxl==3.1.2
+
+pycryptodome==3.18.0
+
+pyinstaller==5.13.2

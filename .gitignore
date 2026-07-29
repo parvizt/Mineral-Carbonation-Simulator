@@ -1,0 +1,15 @@
+pycache/
+
+*.pyc
+
+*.db
+
+*.sqlite3
+
+dist/
+
+build/
+
+*.spec
+
+.env
